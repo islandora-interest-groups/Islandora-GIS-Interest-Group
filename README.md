@@ -8,8 +8,8 @@
 
 * This Islandora Interest Group is named the Islandora GIS Interest Group
 * The purpose of the Islandora GIS Interest Group outlined as follows:
-  * *The primary objective of this interest group is to aim to release a set of functionality that provides for members of the Islandora Community the ability to ingest, browse, and discover geospatial daata sets*
-    * *Considered to be essential to this solution is the ability to visualize geospatial vector and raster data sets (features and coverages), as well as the ability to index Fedora Commons Objects within Apache Solr using key geographic metadata fields*
+  * _The primary objective of this interest group is to aim to release a set of functionality that provides for members of the Islandora Community the ability to ingest, browse, and discover geospatial data sets_
+    * _Considered to be essential to this solution is the ability to visualize geospatial vector and raster data sets (features and coverages), as well as the ability to index Fedora Commons Objects within Apache Solr using key geographic metadata fields_
   * In doing do, this interest group addresses the preservation, access, and discovery of geospatial data sets (these data sets, not being limited to but including Esri Shapefiles [vector data sets] and images in the GeoTIFF [raster data sets]).
   * It enables and structures descriptive and technical metadata for these data sets (including the usage of ISO 19139-compliant XML Documents referred to as "Federal Geographic Data Committee" (FGDC) Documents and MODS Documents)
   * It explores and defines a series of best practices for the generation of common and open standards for the serialization of entities within geospatial data sets (such as the Keyhole Markup Language Documents and GeoJSON Objects)
