@@ -18,3 +18,14 @@
 ## Membership
 
 * [James Griffin](https://github.com/jrgriffiniii) (Lafayette College Libraries)
+* [Donald Moses](https://github.com/dmoses) (UPEI)
+* Lingling Jiang
+* [Kim Pham](https://github.com/kimpham54) (University of Toronto Scarborough Library)
+* [Peter MacDonald](https://github.com/petermacdonald) (Hamilton College Library)
+* Angel Nieves (Hamilton College Library)
+* Greg Lord (Hamilton College Library)
+
+## Institutional User Stories
+
+### _Add your institution here_
+* _Add your story here_
