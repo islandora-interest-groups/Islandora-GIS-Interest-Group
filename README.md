@@ -19,7 +19,7 @@
 
 * [James Griffin](https://github.com/jrgriffiniii) (Lafayette College Libraries)
 * [Donald Moses](https://github.com/dmoses) (UPEI)
-* Lingling Jiang
+* [Lingling Jiang](https://github.com/sprklinginfo) (University of Toronto Scarborough Library)
 * [Kim Pham](https://github.com/kimpham54) (University of Toronto Scarborough Library)
 * [Peter MacDonald](https://github.com/petermacdonald) (Hamilton College Library)
 * Angel Nieves (Hamilton College Library)
