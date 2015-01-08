@@ -22,6 +22,7 @@
 * [Lingling Jiang](https://github.com/sprklinginfo) (University of Toronto Scarborough Library)
 * [Kim Pham](https://github.com/kimpham54) (University of Toronto Scarborough Library)
 * [Peter MacDonald](https://github.com/petermacdonald) (Hamilton College Library)
+* [Kirsta Stapelfeldt] (https://github.com/kstapelfeldt) (University of Toronto Scarborough Library)
 * Angel Nieves (Hamilton College Library)
 * Greg Lord (Hamilton College Library)
 
