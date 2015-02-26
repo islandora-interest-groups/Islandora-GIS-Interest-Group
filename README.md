@@ -25,6 +25,7 @@
 * [Kirsta Stapelfeldt] (https://github.com/kstapelfeldt) (University of Toronto Scarborough Library)
 * Angel Nieves (Hamilton College Library)
 * Greg Lord (Hamilton College Library)
+* [Pat Dunlavey] (https://github.com/patdunlavey) (Common Media, Inc.)
 
 ## Institutional User Stories
 
