@@ -27,7 +27,6 @@
 * Greg Lord (Hamilton College Library)
 * [Pat Dunlavey] (https://github.com/patdunlavey) (Common Media, Inc.)
 
-
 ## Institutional User Stories
 
 ### _Add your institution here_
